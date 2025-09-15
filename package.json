@@ -10,6 +10,9 @@
     "internationalization",
     "i18n"
   ],
+  "bin": {
+    "uninum": "./cli.js"
+  },
   "homepage": "https://github.com/SamanFekri/uninum#readme",
   "bugs": {
     "url": "https://github.com/SamanFekri/uninum/issues"
@@ -19,7 +22,7 @@
     "url": "git+https://github.com/SamanFekri/uninum.git"
   },
   "license": "MIT",
-  "author": "Your Name",
+  "author": "Saman Fekri <samanf74@gmail.com>",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
