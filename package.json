@@ -1,0 +1,16 @@
+{
+  "name": "uninum",
+  "version": "1.0.0",
+  "description": "Normalize and convert numerals from different languages/scripts into English digits.",
+  "main": "index.js",
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": [
+    "numbers",
+    "normalizer",
+    "digits",
+    "localization",
+    "internationalization",
+    "i18n"
+  ]
+}
